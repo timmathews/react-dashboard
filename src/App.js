@@ -1,3 +1,6 @@
+import './css/normalize.css';
+import './css/local.css';
+
 import React, { Component } from 'react';
 import DigitalGauge from 'react-digital-gauge';
 import AnalogGauge from 'react-analog-gauge';
